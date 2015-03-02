@@ -1,0 +1,9 @@
+{
+  "name": "Extra Equipment",
+  "version": "1.0.0",
+  "title": "Extra Equipment",
+  "author": "Rseding91",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "New and different Equipment for the Modular Armor"
+}
